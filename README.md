@@ -6,7 +6,7 @@ AI voice agent that speaks Moroccan Darija for customer service.
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/YOUR_USERNAME/chatsite-darija-runtime)
 
-Replace `YOUR_USERNAME` with your actual GitHub username.
+Replace `Titch7` with your actual GitHub username.
 
 ## Environment Variables Required
 
