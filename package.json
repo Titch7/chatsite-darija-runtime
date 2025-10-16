@@ -1,0 +1,18 @@
+{
+  "name": "chatsite-darija-runtime",
+  "version": "1.0.0",
+  "description": "Moroccan Darija AI Voice Agent",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.14.2",
+    "twilio": "^4.19.0",
+    "openai": "^4.20.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
